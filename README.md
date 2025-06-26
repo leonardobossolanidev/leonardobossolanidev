@@ -35,7 +35,7 @@
 
 ###
 
-<p align="left">Eu sou um dev Brasileiro<br><br>- 🔭Estou buscando emprego.<br>- 📚 Atualmente estudando API ...<br>- ⚡ Gosto de ler e jogar no meu tempo livre</p>
+<p align="left">Eu sou um dev Brasileiro<br><br>- 🔭Estou buscando emprego.<br>- 📚 Atualmente estudando sobre Back-End <br>- ⚡ Gosto de ler e jogar no meu tempo livre</p>
 
 ###
 
